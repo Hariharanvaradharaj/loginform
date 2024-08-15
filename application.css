@@ -1,0 +1,48 @@
+body{        
+  background: linear-gradient(240deg,thistle,rgb(166, 74, 189),rgb(29, 20, 33),rgb(95, 19, 75),rgb(116, 43, 55),rgb(253, 148, 148));
+color: rgb(172, 126, 66);
+font-size: medium;
+font-weight: 200;
+
+}
+
+
+fieldset{
+        border: 2px groove gold;
+        width: 50%;
+        margin-left: 25%;
+        
+
+
+}
+header{
+    margin: 20px;
+    padding: 30px;
+    
+
+}
+p{
+    margin:45px;
+}
+
+input{
+    background-color: thistle
+}
+
+hr{
+    border: 2px solid rgb(172, 126, 66);
+}
+
+button{
+    height: 30px;
+    background-color: thistle;
+}
+textarea{
+    background:none
+}
+
+input.check{
+    background-color: yellow;
+}
+
+ 
